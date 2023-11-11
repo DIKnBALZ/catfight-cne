@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="room" folder="">
+	<sprite name="room" x="0" y="-700" sprite="roombg"/>
+	<sprite name="clockface" x="2200" y="150" sprite="clockstuffs/CLOCK"/>
+	<sprite name="clockMin" x="2200" y="150" sprite="clockstuffs/minutes"/>
+	<sprite name="clockSec" x="2200" y="150" sprite="clockstuffs/seconds"/>
+
+	<box name="camCopy" x="1297" y="72" width="320" height="180" scale="2.4"/>
+
+	<girlfriend x="1450" y="400" scroll="1"/>
+	<dad x="700" y="100" camxoffset="50"/>
+	<boyfriend x="1870" y="480" camxoffset="-50" camyoffset="-50"/>
+</stage>

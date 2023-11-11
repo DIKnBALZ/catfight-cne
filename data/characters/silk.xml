@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character holdTime="6.1" isPlayer="true" flipX="true">
+	<anim name="idle" anim="idle0" fps="12" loop="true"/>
+	<anim name="singRIGHT" anim="right0" fps="12"/>
+	<anim name="singDOWN" anim="down0" fps="12"/>
+	<anim name="singLEFT" anim="left0" fps="12"/>
+	<anim name="singUP" anim="up0"/>
+	<anim name="singRIGHTmiss" anim="m right0" fps="12"/>
+	<anim name="singLEFTmiss" anim="m left0" fps="12"/>
+	<anim name="singUPmiss" anim="m up0" fps="12"/>
+	<anim name="singDOWNmiss" anim="m down0" fps="12"/>
+</character>

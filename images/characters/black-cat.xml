@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black-cat.png">
+<SubTexture name="black-cat idle0000" x="0" y="0" width="563" height="912" frameX="-198" frameY="-107" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat idle0001" x="563" y="0" width="565" height="910" frameX="-196" frameY="-108" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat idle0002" x="1128" y="0" width="566" height="907" frameX="-196" frameY="-110" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing down0000" x="1694" y="0" width="599" height="714" frameX="-185" frameY="-303" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing down0001" x="0" y="912" width="557" height="740" frameX="-205" frameY="-271" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing up0000" x="557" y="912" width="627" height="998" frameX="-198" frameY="-11" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing up0001" x="1184" y="912" width="624" height="970" frameX="-202" frameY="-43" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing left0000" x="1808" y="912" width="628" height="913" frameX="-123" frameY="-109" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing left0001" x="0" y="1910" width="638" height="934" frameX="-97" frameY="-94" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing right0000" x="638" y="1910" width="671" height="925" frameX="-280" frameY="-94" frameWidth="938" frameHeight="1028" />
+<SubTexture name="black-cat sing right0001" x="1309" y="1910" width="634" height="912" frameX="-272" frameY="-110" frameWidth="938" frameHeight="1028" />
+</TextureAtlas>

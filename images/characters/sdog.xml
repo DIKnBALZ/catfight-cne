@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="silk.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dog0000" x="5" y="5" width="640" height="640"/>
+	<SubTexture name="dog0001" x="5" y="5" width="640" height="640"/>
+	<SubTexture name="dog0002" x="5" y="5" width="640" height="640"/>
+	<SubTexture name="dog0003" x="5" y="5" width="640" height="640"/>
+	<SubTexture name="dog0004" x="5" y="650" width="640" height="640"/>
+	<SubTexture name="dog0005" x="5" y="650" width="640" height="640"/>
+	<SubTexture name="dog0006" x="5" y="650" width="640" height="640"/>
+	<SubTexture name="dog0007" x="5" y="650" width="640" height="640"/>
+</TextureAtlas>
